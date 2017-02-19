@@ -1,0 +1,32 @@
+output-file: index.js
+extra-deps:
+  - repo: https://github.com/purescript/purescript-console.git
+    commit: 63d347fa006847170de9c549392601971bd2cc7c
+  - repo: https://github.com/purescript/purescript-eff.git
+    commit: d6c32f884c434dc2af94a2e9143fac0a0be97281
+  - repo: https://github.com/purescript/purescript-prelude.git
+    commit: 4b9fdde22cc521b5e132ec69ac95b814aca63356
+  - repo: https://github.com/purescript-contrib/purescript-canvas.git
+    commit: v2.0.0
+  - repo: https://github.com/purescript/purescript-exceptions.git
+    commit: f75dbad8ae7bb2c089db1c2c017cf57e0855d52c
+  - repo: https://github.com/purescript/purescript-either.git
+    commit: 7211ffbfa5b412f86fe22906c1cc425655967b1b
+  - repo: https://github.com/purescript/purescript-control.git
+    commit: d791ae81db25b3b3260185015563c7ab7b23c07d
+  - repo: https://github.com/purescript/purescript-foldable-traversable.git
+    commit: 7a9f9a68da56c554e51ff71ef85921b48e58bdae
+  - repo: https://github.com/purescript/purescript-monoid.git
+    commit: fd7e46827223decb811216d6cb53d83d57e57a2d
+  - repo: https://github.com/purescript/purescript-invariant.git
+    commit: f0ae0c389aabb6f377539438645caa2e193e2f09
+  - repo: https://github.com/purescript/purescript-bifunctors.git
+    commit: f1d87578e7eb060d6eb8d59939f5bca08af3642d
+  - repo: https://github.com/purescript/purescript-maybe.git
+    commit: e4adaa397a34b83220640c00744884012a354bea
+  - repo: https://github.com/purescript-contrib/purescript-arraybuffer-types.git
+    commit: d327abf9b9c0bc9e1bb524c8bdeb8b1ff236e8c1
+  - repo: https://github.com/purescript/purescript-functions.git
+    commit: e7fbc15668df854df5bee0e4b71200df69fdb764
+  - repo: https://github.com/purescript/purescript-math.git
+    commit: 1c24077759a0d96b6c1d00e304ce998b5052a7b4
