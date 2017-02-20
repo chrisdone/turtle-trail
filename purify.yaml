@@ -32,5 +32,13 @@ extra-deps:
     commit: 1c24077759a0d96b6c1d00e304ce998b5052a7b4
   - repo: https://github.com/purescript-contrib/purescript-js-timers.git
     commit: v2.0.0
-  - repo: https://github.com/purescript/purescript-refs.git
-    commit: v2.0.0
+  - repo: https://github.com/purescript/purescript-arrays.git
+    commit: 90b1c3d126961bfaf60f29068aedaf67f5cf18e2
+  - repo: https://github.com/purescript/purescript-st.git
+    commit: 9a8f00da1e1eb59679b00b73e2b7b8c63a275967
+  - repo: https://github.com/purescript/purescript-tuples.git
+    commit: 0225df2e490fac5c7a9505f2c4320ac6c259f393
+  - repo: https://github.com/purescript/purescript-unfoldable.git
+    commit: 6cd067943bea532b7df07ff1014df2493c355620
+  - repo: https://github.com/purescript/purescript-partial.git
+    commit: 5f29f44744dfa377be1a3032a2ffb03953bcda5f
