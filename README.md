@@ -1,6 +1,6 @@
 # turtle-trail
 
-![Turtle](./img/turtle-side.JPG)
+<img src="./img/turtle-side.JPG" width="100">
 
 # Build
 
