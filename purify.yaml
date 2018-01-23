@@ -42,3 +42,40 @@ extra-deps:
     commit: 6cd067943bea532b7df07ff1014df2493c355620
   - repo: https://github.com/purescript/purescript-partial.git
     commit: 5f29f44744dfa377be1a3032a2ffb03953bcda5f
+  - repo: https://github.com/chrisdone/purescript-jquery.git
+    commit: 05097af
+  - repo: https://github.com/purescript-contrib/purescript-dom.git
+    commit: 7b6bd8a397e47c9de32e3eca33792736735ee903
+    modules:
+      - DOM
+      - DOM.HTML
+      - DOM.HTML.Types
+      - DOM.HTML.Window
+      - DOM.Event.Types
+      - DOM.Node.Types
+      - DOM.Node.NonElementParentNode
+  - repo: https://github.com/purescript/purescript-foreign.git
+    commit: e66594849c08d259b10e295db63a931028728ebb
+    modules:
+      - Data.Foreign
+      - Data.Foreign.Class
+      - Data.Foreign.Index
+      - Data.Foreign.Null
+      - Data.Foreign.NullOrUndefined
+      - Data.Foreign.Undefined
+  - repo: https://github.com/purescript/purescript-integers.git
+    commit: 0a4912442361f7b313c6b42cba3057970d3c5e8b
+    modules:
+      - Data.Int
+      - Data.Int.Bits
+  - repo: https://github.com/purescript/purescript-strings.git
+    commit: b6997465b21f7971d8bf13ea05049ca12b6b9312
+    modules:
+      - Data.String
+      - Data.String.Unsafe
+  - repo: https://github.com/purescript/purescript-unsafe-coerce.git
+    commit: 999756653bf1cb42cc57d6fa3bcdd2086c7b99a1
+  - repo: https://github.com/purescript-contrib/purescript-nullable.git
+    commit: eb7a4894c6dd645a4620c5e5decc1064922ff364
+    modules:
+      - Data.Nullable

@@ -1,5 +1,6 @@
 resolver: lts-6.18
 packages:
+- .
 - location:
     git: https://github.com/purescript/purescript.git
     commit: 2cad87835dbf8c9dba2ad810b32a97579ec52af6

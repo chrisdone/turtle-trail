@@ -1,0 +1,7 @@
+name:                turtle-trail
+version:             0.0.0
+build-type:          Simple
+extra-source-files:
+  src/Main.purs
+  purify.yaml
+  index.html
