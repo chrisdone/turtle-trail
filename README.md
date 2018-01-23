@@ -2,7 +2,7 @@
 
 <img src="./img/turtle-side.JPG" width="200">
 
-Turtle trail is a browser-based video game about a turtle that walks
+Turtle Trail is a browser-based video game about a turtle that walks
 around on a beach.
 
 # Build
